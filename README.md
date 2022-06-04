@@ -2,7 +2,7 @@
 Template for TypeScript, Bundler, Transpiler and Obfuscator to start any web project. Backend or Frontend. 
 🔥🔥👨‍💻👨‍💻🔥🔥
 
-### 1)To start run in the CLI:
+### 1)You need to install nodeJs. To start run in the CLI:
 
 ```sh
 npm install
