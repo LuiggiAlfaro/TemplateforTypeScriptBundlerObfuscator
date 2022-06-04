@@ -12,7 +12,7 @@ npm install
 
 ### 3)To build the JS files from the TS files, bundle and transpile use:
 ```sh
-pm run build
+npm run build
 ```
 
 ### 4)To obfuscate the code:
