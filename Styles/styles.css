@@ -1,0 +1,22 @@
+
+/*pixel varies between device A LOT. rem not. 
+For computers, 1 rem is 8px aprox. USE ALWAYS RELATIVE MEASURES NOT ABSOLUTES */
+/* 3 ways to modify the style of an element */
+/* 1: Apply style by selecting by element type*/
+h1 {
+    color: blue;
+    background-color: ffffff;
+    border: solid 2px gray
+}
+
+/* 2: Apply style by selecting individually by assigned class*/
+.h1TypeA{
+    color: blueviolet;
+}
+
+/* 3: Apply style by ID. Not suggested because the web won't allow this to 
+apply more than once. */
+
+#Unique{
+    color: cadetblue;
+}

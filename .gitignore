@@ -1,0 +1,6 @@
+node_modules
+#Uncomment all the below when it's for production and want to hide everything.
+# Source
+# index.ts
+# zTSbuilt
+# bundle.js
