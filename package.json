@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc && rollup -c",
+    "build:dev": "tsc && NODE_ENV=development rollup -c",
+    "build:prod": "tsc && NODE_ENV=production rollup -c",
     "obfuscate": "javascript-obfuscator bundle.js --output bundleObf.js --options-preset 'default'"
   },
   "keywords": [],
